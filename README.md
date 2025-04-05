@@ -1,6 +1,6 @@
 # Top-N Analysis Using Ranking Window Functions
 
-📚 **Author**: ExploreAI Academy  
+📚 **Author**: Ibrahim Ambale | ExploreAI Academy  
 ⚠️ **Note**: This notebook **cannot run on Google Colab** due to its dependency on a **local MySQL database** (`united_nations`). Please ensure it runs on the same machine where **MySQL Workbench** and the **united_nations** database are installed.
 
 ---
